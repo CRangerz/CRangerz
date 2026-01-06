@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: CZ, Old Chen, CRangerz
 - ⚡ Fun fact: Cold Jokes
 -->
-- 🔭 I’m currently working on molecular and Wnt signal pathway components related to Parkinson disease
+- 🔭 I’m currently working on molecular and Wnt signal pathway components related to Parkinson diseases/ Tumourgenesis
 - 🌱 I’m currently learning the network of these molecular and methods to identify them, R, github
-- 👯 I’m looking to collaborate on a partner interests in nuerodegeneration diseases, R, CS
+- 👯 I’m looking to collaborate on a partner interests in nuerodegeneration diseases or cancer
 - 🤔 I’m looking for help with R and R related software
-- 💬 Ask me about TCM, Nuero, Anything in ShenZhen or Hongkong
+- 💬 Ask me about TCM, Nuero, Anything in ShenZhen or Hong Kong
 - 📫 How to reach me: Crangerz2014@163.com
-- 😄 Pronouns: CZ, Old Chen, CRangerz
+- 😄 Pronouns: Gosse, Old Chen, CRangerz
 - ⚡ Fun fact: Cold Jokes
-- :ok_woman: MTBI: ENTJ/INTP
+- :ok_woman: MTBI: INTP
